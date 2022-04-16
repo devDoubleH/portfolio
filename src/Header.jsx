@@ -12,7 +12,7 @@ const works = [
   {
     name: 'master-front',
     description: 'A site which compiles a front-end code during coding',
-    href: 'https://master-front.netlify.app',
+    href: 'https://master-front.vercel.app',
     icon: ColorSwatchIcon,
   }
 ]
